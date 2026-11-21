@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/d5k2nv6q34smp3xvn984" x-generator="https://m3u4u.com/"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Odr4Bet/TV/main/epg.xml"
 #EXTINF:-1 group-title="ATUALIZADO" tvg-logo="https://i.imgur.com/C09Ybxn.png" tvg-id="" tvg-chno="4",21/09/26
 https://abre.ai/canaldoclientev9mp4
 #EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://i.imgur.com/KYuhWGi.png" tvg-id="GLBVEMA.br",TV Verde Mares CE HD
