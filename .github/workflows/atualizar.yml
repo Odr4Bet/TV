@@ -1,0 +1,28 @@
+name: Atualizar lista
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Baixar lista e EPG
+        run: |
+          curl -L -f -o lista.m3u "http://m3u4u.com/m3u/d5k2nv6q34smp3xvn984"
+          curl -L -f -o epg.xml "http://m3u4u.com/epg/d5k2nv6q34smp3xvn984"
+
+      - name: Apontar o EPG dentro da lista
+        run: |
+          sed -i '1s|.*|#EXTM3U url-tvg="https://raw.githubusercontent.com/Odr4Bet/TV/main/epg.xml"|' lista.m3u
+
+      - name: Salvar alterações
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet || (git commit -m "Atualização automática" && git push)
