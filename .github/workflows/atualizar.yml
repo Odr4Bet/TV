@@ -14,7 +14,9 @@ jobs:
       - name: Baixar lista e EPG
         run: |
           curl -L -f -o lista.m3u "http://m3u4u.com/m3u/d5k2nv6q34smp3xvn984"
-          curl -L -f -o epg.xml "http://m3u4u.com/epg/d5k2nv6q34smp3xvn984"
+          curl -L -f -o epg_baixado "http://m3u4u.com/epg/d5k2nv6q34smp3xvn984"
+          if gzip -t epg_baixado 2>/dev/null; then gunzip -c epg_baixado > epg.xml; else mv epg_baixado epg.xml; fi
+          rm -f epg_baixado
 
       - name: Apontar o EPG dentro da lista
         run: |
