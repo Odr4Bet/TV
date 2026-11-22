@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Odr4Bet/TV/main/epg.xml"
 #EXTINF:-1 group-title="ATUALIZADO" tvg-logo="https://i.imgur.com/C09Ybxn.png" tvg-id="" tvg-chno="4",21/09/26
 https://abre.ai/canaldoclientev9mp4
-#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://i.imgur.com/waZJG1M.png" tvg-id="Globo SP.br (src09)",Globo SP HD
+#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://i.imgur.com/waZJG1M.png" tvg-id="REDEGL.br (m3u4u)",Globo SP HD
 http://streaming.sattvgo.com.br//GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://i.imgur.com/waZJG1M.png" tvg-id="GLBRJ.br",Globo RJ HD
+#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://i.imgur.com/waZJG1M.png" tvg-id="REDEGL.br (m3u4u)",Globo RJ HD
 https://streamer.sattvacabo.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq&utm_source=chatgpt.com
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/KO1v3pS.png" tvg-id="SBT.br",SBT SP HD
 https://aovivo.maissbt.com/channel_720.m3u8?utm_source=chatgpt.com
@@ -17,9 +17,9 @@ http://200.77.176.130:80/RECORD/index.m3u8
 https://streamer.sattvacabo.com.br/RECORD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 group-title="Canais | RECORD TV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" tvg-id="RREC.br",RecordTV HD
 https://streamer.sattvacabo.com.br/RECORD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq&utm_source=chatgpt.com
-#EXTINF:-1 group-title="Canais | BAND TV" tvg-logo="https://i.imgur.com/nCJNjyN.png" tvg-id="BAND.br",Band SP HD
+#EXTINF:-1 group-title="Canais | BAND TV" tvg-logo="https://i.imgur.com/nCJNjyN.png" tvg-id="Band.br (src05)",Band SP HD
 http://138.204.86.4:8080/BAND_HD/index.m3u8
-#EXTINF:-1 group-title="Canais | BAND TV" tvg-logo="https://i.imgur.com/nCJNjyN.png" tvg-id="BAND.br",Band SP FHD
+#EXTINF:-1 group-title="Canais | BAND TV" tvg-logo="https://i.imgur.com/nCJNjyN.png" tvg-id="Band.br (src05)",Band SP FHD
 http://200.77.176.130:80/BAND/index.m3u8
 #EXTINF:-1 group-title="Canais | RedeTV" tvg-logo="https://i.imgur.com/2vYqKX5.png" tvg-id="REDETV.br",RedeTV! PR HD
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
@@ -61,7 +61,7 @@ http://138.204.86.4:8080/SONY_HD/index.m3u8
 http://138.204.86.4:8080/SONY_MOVIES/index.m3u8
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/RxETCgZ.png" tvg-id="SPACEB.br",SPACE HD
 http://45.185.15.154:9080/stream/5/index.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/RxETCgZ.png" tvg-id="SPACEHB.br (m3u4u)",SPACE HD²
+#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/RxETCgZ.png" tvg-id="SPACE.br (src05)",SPACE HD²
 http://138.204.86.4:8080/SPACE_HD/index.m3u8
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/mMLZhgP.png" tvg-id="STUBR.br",Studio Universal HD
 http://45.134.141.161:2200/BRX/Studio_Universal_HD/index.m3u8

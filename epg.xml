@@ -12,16 +12,14 @@
     <display-name>SporTV 2 HD</display-name>
     <icon src="https://logos.json.schedulesdirect.org/stationLogos/s94568_gray_360w_270h.png?v=d8e344874aa1d01421b6" />
   </channel>
-  <channel id="GLBRJ.br">
+  <channel id="REDEGL.br (m3u4u)">
     <display-name>Globo RJ HD</display-name>
-    <icon src="https://logos.json.schedulesdirect.org/stationLogos/s76937_gray_360w_270h.png?v=d8e344874aa1d01421b6" />
+    <display-name>Globo SP HD</display-name>
+    <icon src="https://logos.json.schedulesdirect.org/stationLogos/s42206_light_360w_270h.png?v=d8e344874aa1d01421b6" />
   </channel>
   <channel id="REDEGL.br">
     <display-name>Globo RJ FHD</display-name>
     <icon src="https://logos.json.schedulesdirect.org/stationLogos/s42206_light_360w_270h.png?v=d8e344874aa1d01421b6" />
-  </channel>
-  <channel id="Globo SP.br (src09)">
-    <display-name>Globo SP HD</display-name>
   </channel>
   <channel id="GLBVEMA.br">
     <display-name>TV Verde Mares CE HD</display-name>
@@ -112,18 +110,16 @@
     <display-name>ESPN 5 HD</display-name>
     <icon src="https://logos.json.schedulesdirect.org/stationLogos/s90856_white_360w_270h.png?v=d8e344874aa1d01421b6" />
   </channel>
-  <channel id="BAND.br">
+  <channel id="Band.br (src05)">
     <display-name>Band SP HD</display-name>
     <display-name>Band SP FHD</display-name>
-    <icon src="https://logos.json.schedulesdirect.org/stationLogos/s41309_gray_360w_270h.png?v=d8e344874aa1d01421b6" />
   </channel>
   <channel id="SPACEB.br">
     <display-name>SPACE HD</display-name>
     <icon src="https://logos.json.schedulesdirect.org/stationLogos/s75597_gray_360w_270h.png?v=d8e344874aa1d01421b6" />
   </channel>
-  <channel id="SPACEHB.br (m3u4u)">
+  <channel id="SPACE.br (src05)">
     <display-name>SPACE HD²</display-name>
-    <icon src="https://logos.json.schedulesdirect.org/stationLogos/s75598_light_360w_270h.png?v=d8e344874aa1d01421b6" />
   </channel>
   <channel id="TNTHDB.br">
     <display-name>TNT HD</display-name>
@@ -1826,167 +1822,167 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme channel="BAND.br" start="20261121233000 +0000" stop="20261122013000 +0000">
+  <programme channel="Band.br (src05)" start="20261121233000 +0000" stop="20261122013000 +0000">
     <title lang="pt">Café com Aroma de Mulher</title>
     <category lang="pt">Variedades</category>
   </programme>
-  <programme channel="BAND.br" start="20261122013000 +0000" stop="20261122023000 +0000">
+  <programme channel="Band.br (src05)" start="20261122013000 +0000" stop="20261122023000 +0000">
     <title lang="pt">Documento Band</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261122023000 +0000" stop="20261122040000 +0000">
+  <programme channel="Band.br (src05)" start="20261122023000 +0000" stop="20261122040000 +0000">
     <title lang="pt">SFT - MMA</title>
     <category lang="pt">Esporte</category>
   </programme>
-  <programme channel="BAND.br" start="20261122040000 +0000" stop="20261122050000 +0000">
+  <programme channel="Band.br (src05)" start="20261122040000 +0000" stop="20261122050000 +0000">
     <title lang="pt">BWF - Luta Livre</title>
     <category lang="pt">Esporte</category>
   </programme>
-  <programme channel="BAND.br" start="20261122050000 +0000" stop="20261122061500 +0000">
+  <programme channel="Band.br (src05)" start="20261122050000 +0000" stop="20261122061500 +0000">
     <title lang="pt">Cine Privé: Consultas Íntimas 3</title>
     <category lang="pt">Filme</category>
   </programme>
-  <programme channel="BAND.br" start="20261122061500 +0000" stop="20261122070000 +0000">
+  <programme channel="Band.br (src05)" start="20261122061500 +0000" stop="20261122070000 +0000">
     <title lang="pt">Chama no Privé</title>
     <category lang="pt">Variedades</category>
   </programme>
-  <programme channel="BAND.br" start="20261122070000 +0000" stop="20261122083000 +0000">
+  <programme channel="Band.br (src05)" start="20261122070000 +0000" stop="20261122083000 +0000">
     <title lang="pt">Cinema na Madrugada: Street Fighter: Punho Assassino</title>
     <category lang="pt">Filme</category>
   </programme>
-  <programme channel="BAND.br" start="20261122083000 +0000" stop="20261122090000 +0000">
+  <programme channel="Band.br (src05)" start="20261122083000 +0000" stop="20261122090000 +0000">
     <title lang="pt">+info</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261122090000 +0000" stop="20261122110000 +0000">
+  <programme channel="Band.br (src05)" start="20261122090000 +0000" stop="20261122110000 +0000">
     <title lang="pt">Band Kids - Os Chocolix</title>
     <category lang="pt">Infantil</category>
   </programme>
-  <programme channel="BAND.br" start="20261122110000 +0000" stop="20261122130000 +0000">
+  <programme channel="Band.br (src05)" start="20261122110000 +0000" stop="20261122130000 +0000">
     <title lang="pt">Band Kids - O Diário de Mika</title>
     <category lang="pt">Infantil</category>
   </programme>
-  <programme channel="BAND.br" start="20261122130000 +0000" stop="20261122133000 +0000">
+  <programme channel="Band.br (src05)" start="20261122130000 +0000" stop="20261122133000 +0000">
     <title lang="pt">Autoband</title>
     <category lang="pt">Variedades</category>
   </programme>
-  <programme channel="BAND.br" start="20261122133000 +0000" stop="20261122140000 +0000">
+  <programme channel="Band.br (src05)" start="20261122133000 +0000" stop="20261122140000 +0000">
     <title lang="pt">A Virada de Chave</title>
     <category lang="pt">Variedades</category>
   </programme>
-  <programme channel="BAND.br" start="20261122140000 +0000" stop="20261122150000 +0000">
+  <programme channel="Band.br (src05)" start="20261122140000 +0000" stop="20261122150000 +0000">
     <title lang="pt">Viva Sorte</title>
     <category lang="pt">Variedades</category>
   </programme>
-  <programme channel="BAND.br" start="20261122150000 +0000" stop="20261122190000 +0000">
+  <programme channel="Band.br (src05)" start="20261122150000 +0000" stop="20261122190000 +0000">
     <title lang="pt">Show do Esporte</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261122190000 +0000" stop="20261122203000 +0000">
+  <programme channel="Band.br (src05)" start="20261122190000 +0000" stop="20261122203000 +0000">
     <title lang="pt">Domingo no Cinema: Mesmo se Nada der Certo</title>
     <category lang="pt">Filme</category>
   </programme>
-  <programme channel="BAND.br" start="20261122203000 +0000" stop="20261122230000 +0000">
+  <programme channel="Band.br (src05)" start="20261122203000 +0000" stop="20261122230000 +0000">
     <title lang="pt">Planeta Selvagem</title>
     <category lang="pt">Séries</category>
   </programme>
-  <programme channel="BAND.br" start="20261122230000 +0000" stop="20261123010000 +0000">
+  <programme channel="Band.br (src05)" start="20261122230000 +0000" stop="20261123010000 +0000">
     <title lang="pt">Perrengue na Band</title>
     <category lang="pt">Variedades</category>
   </programme>
-  <programme channel="BAND.br" start="20261123010000 +0000" stop="20261123020000 +0000">
+  <programme channel="Band.br (src05)" start="20261123010000 +0000" stop="20261123020000 +0000">
     <title lang="pt">Som dos Oceanos</title>
     <category lang="pt">Variedades</category>
   </programme>
-  <programme channel="BAND.br" start="20261123020000 +0000" stop="20261123030000 +0000">
+  <programme channel="Band.br (src05)" start="20261123020000 +0000" stop="20261123030000 +0000">
     <title lang="pt">Canal Livre</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123030000 +0000" stop="20261123033000 +0000">
+  <programme channel="Band.br (src05)" start="20261123030000 +0000" stop="20261123033000 +0000">
     <title lang="pt">Arte 1 em Movimento</title>
     <category lang="pt">Variedades</category>
   </programme>
-  <programme channel="BAND.br" start="20261123033000 +0000" stop="20261123040000 +0000">
+  <programme channel="Band.br (src05)" start="20261123033000 +0000" stop="20261123040000 +0000">
     <title lang="pt">Economia Pra Você</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123040000 +0000" stop="20261123050000 +0000">
+  <programme channel="Band.br (src05)" start="20261123040000 +0000" stop="20261123050000 +0000">
     <title lang="pt">+info</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123050000 +0000" stop="20261123053000 +0000">
+  <programme channel="Band.br (src05)" start="20261123050000 +0000" stop="20261123053000 +0000">
     <title lang="pt">Band Esporte</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123053000 +0000" stop="20261123070000 +0000">
+  <programme channel="Band.br (src05)" start="20261123053000 +0000" stop="20261123070000 +0000">
     <title lang="pt">Sessão Especial: A Garota Ideal</title>
     <category lang="pt">Filme</category>
   </programme>
-  <programme channel="BAND.br" start="20261123070000 +0000" stop="20261123110000 +0000">
+  <programme channel="Band.br (src05)" start="20261123070000 +0000" stop="20261123110000 +0000">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <category lang="pt">Variedades</category>
   </programme>
-  <programme channel="BAND.br" start="20261123110000 +0000" stop="20261123113000 +0000">
+  <programme channel="Band.br (src05)" start="20261123110000 +0000" stop="20261123113000 +0000">
     <title lang="pt">Agro Band</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123113000 +0000" stop="20261123120000 +0000">
+  <programme channel="Band.br (src05)" start="20261123113000 +0000" stop="20261123120000 +0000">
     <title lang="pt">Bandsports News</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123120000 +0000" stop="20261123140000 +0000">
+  <programme channel="Band.br (src05)" start="20261123120000 +0000" stop="20261123140000 +0000">
     <title lang="pt">Bora Brasil</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123140000 +0000" stop="20261123150000 +0000">
+  <programme channel="Band.br (src05)" start="20261123140000 +0000" stop="20261123150000 +0000">
     <title lang="pt">Jogo Aberto</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123150000 +0000" stop="20261123162500 +0000">
+  <programme channel="Band.br (src05)" start="20261123150000 +0000" stop="20261123162500 +0000">
     <title lang="pt">Os Donos da Bola - Rio de Janeiro</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123162500 +0000" stop="20261123163000 +0000">
+  <programme channel="Band.br (src05)" start="20261123162500 +0000" stop="20261123163000 +0000">
     <title lang="pt">Notícias da Redação</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123163000 +0000" stop="20261123172500 +0000">
+  <programme channel="Band.br (src05)" start="20261123163000 +0000" stop="20261123172500 +0000">
     <title lang="pt">Vem Com a Gente com Gardênia Cavalcanti</title>
     <category lang="pt">Variedades</category>
   </programme>
-  <programme channel="BAND.br" start="20261123172500 +0000" stop="20261123173000 +0000">
+  <programme channel="Band.br (src05)" start="20261123172500 +0000" stop="20261123173000 +0000">
     <title lang="pt">Notícias da Redação</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123173000 +0000" stop="20261123190000 +0000">
+  <programme channel="Band.br (src05)" start="20261123173000 +0000" stop="20261123190000 +0000">
     <title lang="pt">Melhor da Tarde</title>
     <category lang="pt">Variedades</category>
   </programme>
-  <programme channel="BAND.br" start="20261123190000 +0000" stop="20261123203000 +0000">
+  <programme channel="Band.br (src05)" start="20261123190000 +0000" stop="20261123203000 +0000">
     <title lang="pt">Brasil Urgente</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123203000 +0000" stop="20261123214000 +0000">
+  <programme channel="Band.br (src05)" start="20261123203000 +0000" stop="20261123214000 +0000">
     <title lang="pt">Brasil Urgente Rio</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123214000 +0000" stop="20261123222000 +0000">
+  <programme channel="Band.br (src05)" start="20261123214000 +0000" stop="20261123222000 +0000">
     <title lang="pt">Jornal do Rio</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123222000 +0000" stop="20261123233000 +0000">
+  <programme channel="Band.br (src05)" start="20261123222000 +0000" stop="20261123233000 +0000">
     <title lang="pt">Jornal da Band</title>
     <category lang="pt">Jornalismo</category>
   </programme>
-  <programme channel="BAND.br" start="20261123233000 +0000" stop="20261124002500 +0000">
+  <programme channel="Band.br (src05)" start="20261123233000 +0000" stop="20261124002500 +0000">
     <title lang="pt">A Traição</title>
     <category lang="pt">Variedades</category>
   </programme>
-  <programme channel="BAND.br" start="20261124002500 +0000" stop="20261124012000 +0000">
+  <programme channel="Band.br (src05)" start="20261124002500 +0000" stop="20261124012000 +0000">
     <title lang="pt">Show da Fé</title>
     <category lang="pt">Variedades</category>
   </programme>
-  <programme channel="BAND.br" start="20261124012000 +0000" stop="20261124030000 +0000">
+  <programme channel="Band.br (src05)" start="20261124012000 +0000" stop="20261124030000 +0000">
     <title lang="pt">Planeta Selvagem</title>
     <category lang="pt">Séries</category>
   </programme>
@@ -2690,6 +2686,202 @@
     <title lang="pt">Galvão F.C.</title>
     <category lang="pt">Variedades</category>
   </programme>
+  <programme channel="SPACE.br (src05)" start="20261121221400 +0000" stop="20261122000500 +0000">
+    <title lang="pt">Rambo III</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122000500 +0000" stop="20261122020000 +0000">
+    <title lang="pt">A Múmia</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122020000 +0000" stop="20261122040400 +0000">
+    <title lang="pt">Mortal Kombat</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122040400 +0000" stop="20261122044600 +0000">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122044600 +0000" stop="20261122053100 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122053100 +0000" stop="20261122061200 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122061200 +0000" stop="20261122065500 +0000">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122065500 +0000" stop="20261122073900 +0000">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122073900 +0000" stop="20261122082100 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122082100 +0000" stop="20261122091600 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122091600 +0000" stop="20261122094000 +0000">
+    <title lang="pt">Olhos Da Lei</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122094000 +0000" stop="20261122102500 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122102500 +0000" stop="20261122110700 +0000">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122110700 +0000" stop="20261122115600 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122115600 +0000" stop="20261122124300 +0000">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122124300 +0000" stop="20261122132900 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122132900 +0000" stop="20261122143900 +0000">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122143900 +0000" stop="20261122152500 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122152500 +0000" stop="20261122172100 +0000">
+    <title lang="pt">Mortal Kombat</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122172100 +0000" stop="20261122191700 +0000">
+    <title lang="pt">Máquina Mortífera</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122191700 +0000" stop="20261122212200 +0000">
+    <title lang="pt">Máquina Mortífera 2</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122212200 +0000" stop="20261122233300 +0000">
+    <title lang="pt">Máquina Mortífera 3</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261122233300 +0000" stop="20261123020000 +0000">
+    <title lang="pt">Máquina Mortífera 4</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123020000 +0000" stop="20261123044400 +0000">
+    <title lang="pt">Furiosa: Uma Saga Mad Max</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123044400 +0000" stop="20261123052500 +0000">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123052500 +0000" stop="20261123060900 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123060900 +0000" stop="20261123065000 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123065000 +0000" stop="20261123073400 +0000">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123073400 +0000" stop="20261123090000 +0000">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123090000 +0000" stop="20261123091900 +0000">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Variedades</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123091900 +0000" stop="20261123094200 +0000">
+    <title lang="pt">Operação Fronteira Brasil</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123094200 +0000" stop="20261123114200 +0000">
+    <title lang="pt">Queima de Arquivo</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123114200 +0000" stop="20261123143900 +0000">
+    <title lang="pt">Batman</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123143900 +0000" stop="20261123165500 +0000">
+    <title lang="pt">O Protetor 2</title>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123165500 +0000" stop="20261123174000 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123174000 +0000" stop="20261123182500 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123182500 +0000" stop="20261123191100 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123191100 +0000" stop="20261123195600 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123195600 +0000" stop="20261123204200 +0000">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123204200 +0000" stop="20261123212800 +0000">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123212800 +0000" stop="20261123221500 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123221500 +0000" stop="20261123230000 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123230000 +0000" stop="20261123234500 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261123234500 +0000" stop="20261124003100 +0000">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261124003100 +0000" stop="20261124011600 +0000">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261124011600 +0000" stop="20261124020000 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261124020000 +0000" stop="20261124022500 +0000">
+    <title lang="pt">Operação Fronteira Brasil</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261124022500 +0000" stop="20261124025100 +0000">
+    <title lang="pt">Operação Fronteira Brasil</title>
+    <category lang="pt">Séries</category>
+  </programme>
+  <programme channel="SPACE.br (src05)" start="20261124025100 +0000" stop="20261124033500 +0000">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries</category>
+  </programme>
   <programme channel="Universal.Channel.br (src05)" start="20261121234000 +0000" stop="20261122003000 +0000">
     <title lang="pt">Chicago P.D.</title>
     <category lang="pt">Séries</category>
@@ -2943,22 +3135,6 @@
     <sub-title>Ponto Final</sub-title>
     <desc>O ônibus da WelderUp recebe um acabamento futurista; Merlon converte um motor Cummins para rodar com óleo vegetal e Travis instala turbos triplos; Justin enfrenta problemas inesperados com seu Lark 1962.</desc>
     <episode-num system="onscreen">3.11.</episode-num>
-  </programme>
-  <programme channel="Globo SP.br (src09)" start="20261121023000 +0000" stop="20261122023000 +0000">
-    <title>Chic Show</title>
-    <desc>A história do baile Chic Show, icônica festa de black music paulistana. O evento foi um marco na vida de São Paulo. Realizado em salões pela cidade nas décadas de 1970 e 1980, o espetáculo se transformou em um ponto de encontro da cultura negra e abriu espaço para funk, soul, rap e pagode, entre outros ritmos. A festa recebeu nomes como Tim Maia, Sandra de Sá, Gilberto Gil, Djavan, Bebeto e Carlos Dafé, além de artistas internacionais como Kurtis Blow, Betty Wright e James Brown.</desc>
-  </programme>
-  <programme channel="Globo SP.br (src09)" start="20261122023000 +0000" stop="20261122032000 +0000">
-    <title>Chic Show</title>
-    <desc>A história do baile Chic Show, icônica festa de black music paulistana. O evento foi um marco na vida de São Paulo. Realizado em salões pela cidade nas décadas de 1970 e 1980, o espetáculo se transformou em um ponto de encontro da cultura negra e abriu espaço para funk, soul, rap e pagode, entre outros ritmos. A festa recebeu nomes como Tim Maia, Sandra de Sá, Gilberto Gil, Djavan, Bebeto e Carlos Dafé, além de artistas internacionais como Kurtis Blow, Betty Wright e James Brown.</desc>
-  </programme>
-  <programme channel="Globo SP.br (src09)" start="20261122032000 +0000" stop="20261122033000 +0000">
-    <title>Grid da Globo</title>
-    <desc>Uma prévia das eletrizantes corridas da Fórmula 1, com uma visão prática, técnica e acessível dos aspectos mais importantes da principal categoria do automobilismo mundial.</desc>
-  </programme>
-  <programme channel="Globo SP.br (src09)" start="20261122033000 +0000" stop="20261122042000 +0000">
-    <title>Jornal da Globo</title>
-    <desc>O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.</desc>
   </programme>
   <programme channel="SBT.br" start="20261121021500 +0000" stop="20261122021500 +0000">
     <title>Aeroporto - Área Restrita</title>
@@ -5962,40 +6138,6 @@
     <rating>
       <value>MA 15+</value>
     </rating>
-  </programme>
-  <programme channel="BAND.br" start="20261122113000 +0000" stop="20261122120000 +0000">
-    <title lang="pt-BR">Seu Negócio</title>
-    <desc lang="pt-BR">Especialista em reestruturação empresarial mostra histórias reais de negócios, trazendo desafios práticos, estratégias, tomadas de decisão e soluções para empresas que buscam retomar o crescimento.</desc>
-    <category lang="pt-BR">Bus./financial</category>
-    <rating>
-      <value>AL</value>
-    </rating>
-  </programme>
-  <programme channel="BAND.br" start="20261122120000 +0000" stop="20261122133000 +0000">
-    <title lang="pt-BR">Pillowmed</title>
-    <desc lang="pt-BR">Espaço destinado à comercialização de produtos e serviços.</desc>
-    <category lang="pt-BR">Shopping</category>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme channel="BAND.br" start="20261123083000 +0000" stop="20261123103000 +0000">
-    <title lang="pt-BR">Bandnews Hoje</title>
-    <desc lang="pt-BR">Um jornal pensado para quem desperta conectado aos acontecimentos que movimentam o Brasil e o mundo.</desc>
-    <category lang="pt-BR">News</category>
-  </programme>
-  <programme channel="BAND.br" start="20261123103000 +0000" stop="20261123110000 +0000">
-    <title lang="pt-BR">Dia Dia Rural</title>
-    <desc lang="pt-BR">Entrevistas, debates técnicos, boletins ao vivo dos maiores eventos do setor e as principais notícias do agronegócio no Brasil e no mundo.</desc>
-    <category lang="pt-BR">Agriculture</category>
-    <rating>
-      <value>AL</value>
-    </rating>
-  </programme>
-  <programme channel="BAND.br" start="20261123160000 +0000" stop="20261123173000 +0000">
-    <title lang="pt-BR">Os Donos da Bola</title>
-    <desc lang="pt-BR">A atração debate sobre o mundo do futebol da forma mais bem-humorada da televisão.</desc>
-    <category lang="pt-BR">Soccer</category>
   </programme>
   <programme channel="DHEAB.br (m3u4u)" start="20261121233900 +0000" stop="20261122002500 +0000">
     <title lang="pt-BR">Mama June - Vida Nova</title>
@@ -10255,301 +10397,6 @@
     <rating>
       <value>TVPG</value>
     </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261121233000 +0000" stop="20261122003000 +0000">
-    <title lang="pt-BR">Jornal Nacional</title>
-    <desc lang="pt-BR">As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
-    <category lang="pt-BR">News</category>
-    <episode-num system="onscreen">S2026E279</episode-num>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122003000 +0000" stop="20261122014500 +0000">
-    <title lang="pt-BR">Quem Ama Cuida</title>
-    <desc lang="pt-BR">Felipe descobre que Mau Mau é irmão de Adriana. Elisa repreende Otoniel. Tiago avisa a Pilar que as retiradas dos sócios estão suspensas na joalheria. Camilo é forçado a dizer a Mirtes que escutou uma conversa de Laurentino e comenta que ele tem um filho. Adriana e Rafael discutem. Carolina chama Mau Mau para conversar com Felipe.</desc>
-    <category lang="pt-BR">Soap</category>
-    <episode-num system="onscreen">S2026E160</episode-num>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122014500 +0000" stop="20261122033500 +0000">
-    <title lang="pt-BR">Altas Horas</title>
-    <desc lang="pt-BR">O "Altas Horas" celebra a trajetória de Ana Carolina em encontro musical com Luísa Sonza, Vanessa da Mata, Maria Gadú e convidados. Ana Carolina é recebida para uma edição especial dedicada aos seus 25 anos na música. Ao lado dos amigos, parceiros e artistas de diferentes gerações que têm nela uma referência, a cantora revisita momentos de sua trajetória, compartilha histórias dos bastidores e apresenta sucessos que marcaram sua carreira.</desc>
-    <category lang="pt-BR">Entertainment</category>
-    <episode-num system="onscreen">S2026E1288</episode-num>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122033500 +0000" stop="20261122064000 +0000">
-    <title lang="pt-BR">Fórmula 1</title>
-    <sub-title lang="pt-BR">GP de Las Vegas</sub-title>
-    <desc lang="pt-BR">Do Las Vegas Strip Circuit, em Paradise, EUA.</desc>
-    <category lang="pt-BR">Auto racing</category>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122064000 +0000" stop="20261122072000 +0000">
-    <title lang="pt-BR">Lá na Minha Terra</title>
-    <desc lang="pt-BR">Brícia e Maria Lina conversam sobre Rosenda, elas lembram que o pai achou Brícia bebê, abandonada. Rosenda entra no avião para São Paulo, tensa. No Jóquei, Cesário comemora com Ezequiel e Tânia que deu certo a cirurgia da égua. Raimundo Gerardo fica feliz quando percebe que Socorro está interessada em Damaso.</desc>
-    <category lang="pt-BR">Soap</category>
-    <episode-num system="onscreen">S2026E12</episode-num>
-    <rating>
-      <value>A12</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122072000 +0000" stop="20261122080000 +0000">
-    <title lang="pt-BR">Por Você</title>
-    <desc lang="pt-BR">Peixe reconhece Osvaldo e ajuda Lucas a cercá-lo. Vanessa se irrita ao tomar conhecimento do projeto de medicina conduzido por Vitor. Bela confessa a Iara que teme as atitudes de Vanessa. Dalila e Suelen aconselham Glorinha a viver novas experiências. Lucas e Margô avisam a Josi Kéli que Osvaldo foi detido. Leandra pensa em Toy.</desc>
-    <category lang="pt-BR">Soap</category>
-    <episode-num system="onscreen">S2026E84</episode-num>
-    <rating>
-      <value>A12</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122080000 +0000" stop="20261122085000 +0000">
-    <title lang="pt-BR">Vai que Cola</title>
-    <desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
-    <category lang="pt-BR">Comedy</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122085000 +0000" stop="20261122094000 +0000">
-    <title lang="pt-BR">Santa Missa</title>
-    <desc lang="pt-BR">Celebração dos cristãos católicos propaga a Eucaristia para diversas regiões do país.</desc>
-    <category lang="pt-BR">Religious</category>
-    <episode-num system="onscreen">S2026E46</episode-num>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122094000 +0000" stop="20261122103000 +0000">
-    <title lang="pt-BR">Globo Repórter</title>
-    <desc lang="pt-BR">O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.</desc>
-    <category lang="pt-BR">Newsmagazine</category>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122103000 +0000" stop="20261122110000 +0000">
-    <title lang="pt-BR">Globo Comunidade RJ</title>
-    <desc lang="pt-BR">O noticiário traz assuntos de interesse da comunidade, como qualidade de vida e urbanismo.</desc>
-    <category lang="pt-BR">Community</category>
-    <episode-num system="onscreen">S2026E1418</episode-num>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122110000 +0000" stop="20261122113500 +0000">
-    <title lang="pt-BR">AutoEsporte</title>
-    <desc lang="pt-BR">A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.</desc>
-    <category lang="pt-BR">Auto</category>
-    <episode-num system="onscreen">S2026E1211</episode-num>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122113500 +0000" stop="20261122131500 +0000">
-    <title lang="pt-BR">Globo Rural</title>
-    <desc lang="pt-BR">As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.</desc>
-    <category lang="pt-BR">Agriculture</category>
-    <episode-num system="onscreen">S2026E2402</episode-num>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122131500 +0000" stop="20261122141500 +0000">
-    <title lang="pt-BR">Viver Sertanejo</title>
-    <desc lang="pt-BR">As histórias de artistas que têm a roça como parte de suas trajetórias. Matogrosso &amp; Mathias, Naiara Azevedo, Jads &amp; Jadson, Murilo Huff, Sorocaba e outros convidados estão entre os artistas que tiveram suas participações relembradas na atração. A vida no campo, as memórias da infância e toda relação com a terra estão no centro da conversa.</desc>
-    <category lang="pt-BR">Interview</category>
-    <episode-num system="onscreen">S2026E93</episode-num>
-    <rating>
-      <value>A10</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122141500 +0000" stop="20261122153000 +0000">
-    <title lang="pt-BR">Esporte Espetacular</title>
-    <desc lang="pt-BR">Tudo o que rolou durante a semana nos esportes e os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.</desc>
-    <category lang="pt-BR">Newsmagazine</category>
-    <episode-num system="onscreen">S2026E47</episode-num>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122153000 +0000" stop="20261122175000 +0000">
-    <title lang="pt-BR">A Mulher Rei</title>
-    <desc lang="pt-BR">Em 1800, a general Nanisca treina um grupo de mulheres guerreiras para proteger o reino africano de Daomé de um inimigo estrangeiro.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122175000 +0000" stop="20261122193500 +0000">
-    <title lang="pt-BR">Nosso Sonho</title>
-    <desc lang="pt-BR">A trajetória de Claudinho &amp; Buchecha, a dupla de maior sucesso do funk melody brasileiro de todos os tempos. A história de uma amizade que se transforma em força de superação e conquista.</desc>
-    <category lang="pt-BR">Biography</category>
-    <rating>
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122193500 +0000" stop="20261122203000 +0000">
-    <title lang="pt-BR">Em Família com Eliana</title>
-    <desc lang="pt-BR">No "Em Família com Eliana", Sandra Annenberg, Ary Fontoura e a dupla Marcos e Belutti como jurados do Show em Família. Três famílias voltam ao palco em uma competição que busca a família mais musical do Brasil. Em conversa com Eliana, Sandra Annenberg relembra momentos de seus 35 anos de carreira no jornalismo, o que inclui passagens pelo "Jornal Nacional", "Fantástico", "Jornal Hoje", além de sua experiência como correspondente em Londres.</desc>
-    <category lang="pt-BR">Variety</category>
-    <episode-num system="onscreen">S01E31</episode-num>
-    <rating>
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122203000 +0000" stop="20261122233000 +0000">
-    <title lang="pt-BR">Domingão com Huck</title>
-    <desc lang="pt-BR">Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.</desc>
-    <category lang="pt-BR">Entertainment</category>
-    <episode-num system="onscreen">S2026E272</episode-num>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261122233000 +0000" stop="20261123023500 +0000">
-    <title lang="pt-BR">Fantástico</title>
-    <desc lang="pt-BR">Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.</desc>
-    <category lang="pt-BR">Newsmagazine</category>
-    <episode-num system="onscreen">S2026E2770</episode-num>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123023500 +0000" stop="20261123032500 +0000">
-    <title lang="pt-BR">Circuito Sertanejo</title>
-    <sub-title lang="pt-BR">Melhores Momentos</sub-title>
-    <desc lang="pt-BR">O maior festival de música sertaneja do Brasil que acontece nas seis cidades anfitriãs: Londrina, Ribeirão Preto, Pedro Leopoldo, Barretos, Jaguariúna e Caldas Novas.</desc>
-    <category lang="pt-BR">Event</category>
-    <episode-num system="onscreen">S2026E07</episode-num>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123032500 +0000" stop="20261123053000 +0000">
-    <title lang="pt-BR">Colateral</title>
-    <desc lang="pt-BR">O taxista Max está trabalhando em uma noite aparentemente tranquila de Los Angeles, até que pega como passageiro Vincent, um assassino de aluguel na cidade para completar o plano de um cartel do narcotráfico. Vincent precisa aguardar que as testemunhas de um crime morram e, para isso, conta com Max para despistar a polícia local e o FBI. Obrigado a seguir ordens, Max precisa ainda lutar contra a possibilidade de ser morto, já que Vincent pode usá-lo para proteção pessoal.</desc>
-    <category lang="pt-BR">Thriller</category>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123053000 +0000" stop="20261123061500 +0000">
-    <title lang="pt-BR">Vai que Cola</title>
-    <desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
-    <category lang="pt-BR">Comedy</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123061500 +0000" stop="20261123070000 +0000">
-    <title lang="pt-BR">Vai que Cola</title>
-    <desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
-    <category lang="pt-BR">Comedy</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123070000 +0000" stop="20261123090000 +0000">
-    <title lang="pt-BR">Hora 1</title>
-    <desc lang="pt-BR">Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.</desc>
-    <category lang="pt-BR">News</category>
-    <episode-num system="onscreen">S2026E229</episode-num>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123090000 +0000" stop="20261123113000 +0000">
-    <title lang="pt-BR">Bom Dia RJ</title>
-    <desc lang="pt-BR">Acompanhe as notícias da manhã e da madrugada, com entrevistas diárias, previsão do tempo, condições do trânsito na cidade, campanhas sociais, oportunidades no mercado de trabalho, assim como assuntos relevantes de Cabo Frio e região.</desc>
-    <category lang="pt-BR">News</category>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123113000 +0000" stop="20261123123000 +0000">
-    <title lang="pt-BR">Bom Dia Brasil</title>
-    <desc lang="pt-BR">A cobertura de notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
-    <category lang="pt-BR">News</category>
-    <episode-num system="onscreen">S2026E233</episode-num>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123123000 +0000" stop="20261123133500 +0000">
-    <title lang="pt-BR">Encontro com Patrícia Poeta</title>
-    <desc lang="pt-BR">O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.</desc>
-    <category lang="pt-BR">Entertainment</category>
-    <episode-num system="onscreen">S2026E1133</episode-num>
-    <rating>
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123133500 +0000" stop="20261123144500 +0000">
-    <title lang="pt-BR">Mais Você</title>
-    <desc lang="pt-BR">Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.</desc>
-    <category lang="pt-BR">Talk</category>
-    <episode-num system="onscreen">S2026E6728</episode-num>
-    <rating>
-      <value>AA</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123144500 +0000" stop="20261123160000 +0000">
-    <title lang="pt-BR">RJ1</title>
-    <desc lang="pt-BR">O telejornal mostra os acontecimentos do dia a dia, explora os debates entre a população e as autoridades. Promove campanhas e discussões, cobrando soluções para melhorar o cotidiano do Rio de Janeiro.</desc>
-    <category lang="pt-BR">News</category>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123160000 +0000" stop="20261123162500 +0000">
-    <title lang="pt-BR">Globo Esporte RJ</title>
-    <desc lang="pt-BR">Confira as últimas notícias dos principais eventos do mundo esportivo, com foco nos times do estado.</desc>
-    <category lang="pt-BR">News</category>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123162500 +0000" stop="20261123174500 +0000">
-    <title lang="pt-BR">Jornal Hoje</title>
-    <desc lang="pt-BR">As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
-    <category lang="pt-BR">News</category>
-    <episode-num system="onscreen">S2026E280</episode-num>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123174500 +0000" stop="20261123182500 +0000">
-    <title lang="pt-BR">Roque Santeiro - Edição Especial</title>
-    <desc lang="pt-BR">Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir. O falso santo, porém, reaparece em carne e osso 17 anos depois, ameaçando o poder e a riqueza das autoridades locais.</desc>
-    <category lang="pt-BR">Soap</category>
-    <episode-num system="onscreen">S2026E43</episode-num>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123182500 +0000" stop="20261123200500 +0000">
-    <title lang="pt-BR">A Boneca que Virou Gente 2</title>
-    <desc lang="pt-BR">Trabalhando na empresa de brinquedos Marathon Toys, a jovem executiva Grace está passando por uma crise. Mas, quando sua boneca Eve cria vida, a empresária ganha uma ajuda para dar a volta por cima.</desc>
-    <category lang="pt-BR">Holiday</category>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123200500 +0000" stop="20261123204500 +0000">
-    <title lang="pt-BR">Vale a Pena Ver de Novo - A Dona do Pedaço</title>
-    <desc lang="pt-BR">Maria da Paz é uma jovem humilde que vem de uma família de justiceiros profissionais e se apaixona por um membro do clã rival nos negócios, o advogado Amadeu. A violência e a sede por vingança das famílias travam este grande amor.</desc>
-    <category lang="pt-BR">Soap</category>
-    <episode-num system="onscreen">S2026E01</episode-num>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123204500 +0000" stop="20261123212500 +0000">
-    <title lang="pt-BR">Vale a Pena Ver de Novo - Avenida Brasil</title>
-    <desc lang="pt-BR">Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.</desc>
-    <category lang="pt-BR">Soap</category>
-    <episode-num system="onscreen">S2026E159</episode-num>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123212500 +0000" stop="20261123221000 +0000">
-    <title lang="pt-BR">Lá na Minha Terra</title>
-    <desc lang="pt-BR">Rosenda desembarca no Rio de Janeiro após um pouso de emergência do avião. Ismália disfarça, mas não consegue dar a maçã envenenada para a égua Cleópatra. Rosenda consegue embarcar em um ônibus para São Paulo, e avisa a Almerindo, que se preocupa com a amada. Elias se sente mal durante a reunião com Cesário e Aluísio, e reclama com Lourdes. Rosenda é roubada em São Paulo, e Josias fica com seu celular e seu colar. Marleide acolhe Rosenda.</desc>
-    <category lang="pt-BR">Soap</category>
-    <episode-num system="onscreen">S2026E13</episode-num>
-    <rating>
-      <value>A12</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123221000 +0000" stop="20261123224000 +0000">
-    <title lang="pt-BR">RJ2</title>
-    <desc lang="pt-BR">O telejornal mostra os acontecimentos do dia a dia, explora os debates entre a população e as autoridades. Promove campanhas e discussões, cobrando soluções para melhorar o cotidiano do Rio de Janeiro.</desc>
-    <category lang="pt-BR">News</category>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123224000 +0000" stop="20261123233000 +0000">
-    <title lang="pt-BR">Por Você</title>
-    <desc lang="pt-BR">Vanessa sonda Ítalo sobre seus irmãos. Samuca pergunta se Lucas quer ser seu pai. Leandra discute com Vanessa, que não aceita a escolha profissional da filha. Dalila, Suelen, Hanna e Josi Kéli ajudam Glorinha. Suelen e Maike se declaram um para o outro. Glorinha e Juca vão a um encontro. Vanessa orienta Zé a se aproximar de Glorinha e Zé aborda Glorinha.</desc>
-    <category lang="pt-BR">Soap</category>
-    <episode-num system="onscreen">S2026E85</episode-num>
-    <rating>
-      <value>A12</value>
-    </rating>
-  </programme>
-  <programme channel="GLBRJ.br" start="20261123233000 +0000" stop="20261124003000 +0000">
-    <title lang="pt-BR">Jornal Nacional</title>
-    <desc lang="pt-BR">As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
-    <category lang="pt-BR">News</category>
-    <episode-num system="onscreen">S2026E280</episode-num>
   </programme>
   <programme channel="GLBVEMA.br" start="20261121233000 +0000" stop="20261122003000 +0000">
     <title lang="pt-BR">Jornal Nacional</title>
@@ -19271,11 +19118,26 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261121233000 +0000" stop="20261122003000 +0000">
+    <title lang="pt-BR">Jornal Nacional</title>
+    <desc lang="pt-BR">As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
+    <category lang="pt-BR">News</category>
+    <episode-num system="onscreen">S2026E279</episode-num>
+  </programme>
   <programme channel="REDEGL.br" start="20261121233000 +0000" stop="20261122003000 +0000">
     <title lang="pt-BR">Jornal Nacional</title>
     <desc lang="pt-BR">As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
     <category lang="pt-BR">News</category>
     <episode-num system="onscreen">S2026E279</episode-num>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122003000 +0000" stop="20261122014500 +0000">
+    <title lang="pt-BR">Quem Ama Cuida</title>
+    <desc lang="pt-BR">Felipe descobre que Mau Mau é irmão de Adriana. Elisa repreende Otoniel. Tiago avisa a Pilar que as retiradas dos sócios estão suspensas na joalheria. Camilo é forçado a dizer a Mirtes que escutou uma conversa de Laurentino e comenta que ele tem um filho. Adriana e Rafael discutem. Carolina chama Mau Mau para conversar com Felipe.</desc>
+    <category lang="pt-BR">Soap</category>
+    <episode-num system="onscreen">S2026E160</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
   </programme>
   <programme channel="REDEGL.br" start="20261122003000 +0000" stop="20261122014500 +0000">
     <title lang="pt-BR">Quem Ama Cuida</title>
@@ -19284,6 +19146,15 @@
     <episode-num system="onscreen">S2026E160</episode-num>
     <rating>
       <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122014500 +0000" stop="20261122033500 +0000">
+    <title lang="pt-BR">Altas Horas</title>
+    <desc lang="pt-BR">O "Altas Horas" celebra a trajetória de Ana Carolina em encontro musical com Luísa Sonza, Vanessa da Mata, Maria Gadú e convidados. Ana Carolina é recebida para uma edição especial dedicada aos seus 25 anos na música. Ao lado dos amigos, parceiros e artistas de diferentes gerações que têm nela uma referência, a cantora revisita momentos de sua trajetória, compartilha histórias dos bastidores e apresenta sucessos que marcaram sua carreira.</desc>
+    <category lang="pt-BR">Entertainment</category>
+    <episode-num system="onscreen">S2026E1288</episode-num>
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="REDEGL.br" start="20261122014500 +0000" stop="20261122033500 +0000">
@@ -19295,17 +19166,41 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122033500 +0000" stop="20261122064000 +0000">
+    <title lang="pt-BR">Fórmula 1</title>
+    <sub-title lang="pt-BR">GP de Las Vegas</sub-title>
+    <desc lang="pt-BR">Do Las Vegas Strip Circuit, em Paradise, EUA.</desc>
+    <category lang="pt-BR">Auto racing</category>
+  </programme>
   <programme channel="REDEGL.br" start="20261122033500 +0000" stop="20261122064000 +0000">
     <title lang="pt-BR">Fórmula 1</title>
     <sub-title lang="pt-BR">GP de Las Vegas</sub-title>
     <desc lang="pt-BR">Do Las Vegas Strip Circuit, em Paradise, EUA.</desc>
     <category lang="pt-BR">Auto racing</category>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122064000 +0000" stop="20261122072000 +0000">
+    <title lang="pt-BR">Lá na Minha Terra</title>
+    <desc lang="pt-BR">Brícia e Maria Lina conversam sobre Rosenda, elas lembram que o pai achou Brícia bebê, abandonada. Rosenda entra no avião para São Paulo, tensa. No Jóquei, Cesário comemora com Ezequiel e Tânia que deu certo a cirurgia da égua. Raimundo Gerardo fica feliz quando percebe que Socorro está interessada em Damaso.</desc>
+    <category lang="pt-BR">Soap</category>
+    <episode-num system="onscreen">S2026E12</episode-num>
+    <rating>
+      <value>A12</value>
+    </rating>
+  </programme>
   <programme channel="REDEGL.br" start="20261122064000 +0000" stop="20261122072000 +0000">
     <title lang="pt-BR">Lá na Minha Terra</title>
     <desc lang="pt-BR">Brícia e Maria Lina conversam sobre Rosenda, elas lembram que o pai achou Brícia bebê, abandonada. Rosenda entra no avião para São Paulo, tensa. No Jóquei, Cesário comemora com Ezequiel e Tânia que deu certo a cirurgia da égua. Raimundo Gerardo fica feliz quando percebe que Socorro está interessada em Damaso.</desc>
     <category lang="pt-BR">Soap</category>
     <episode-num system="onscreen">S2026E12</episode-num>
+    <rating>
+      <value>A12</value>
+    </rating>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122072000 +0000" stop="20261122080000 +0000">
+    <title lang="pt-BR">Por Você</title>
+    <desc lang="pt-BR">Peixe reconhece Osvaldo e ajuda Lucas a cercá-lo. Vanessa se irrita ao tomar conhecimento do projeto de medicina conduzido por Vitor. Bela confessa a Iara que teme as atitudes de Vanessa. Dalila e Suelen aconselham Glorinha a viver novas experiências. Lucas e Margô avisam a Josi Kéli que Osvaldo foi detido. Leandra pensa em Toy.</desc>
+    <category lang="pt-BR">Soap</category>
+    <episode-num system="onscreen">S2026E84</episode-num>
     <rating>
       <value>A12</value>
     </rating>
@@ -19319,12 +19214,29 @@
       <value>A12</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122080000 +0000" stop="20261122085000 +0000">
+    <title lang="pt-BR">Vai que Cola</title>
+    <desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+    <category lang="pt-BR">Comedy</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
   <programme channel="REDEGL.br" start="20261122080000 +0000" stop="20261122085000 +0000">
     <title lang="pt-BR">Vai que Cola</title>
     <desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
     <category lang="pt-BR">Comedy</category>
     <rating>
       <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122085000 +0000" stop="20261122094000 +0000">
+    <title lang="pt-BR">Santa Missa</title>
+    <desc lang="pt-BR">Celebração dos cristãos católicos propaga a Eucaristia para diversas regiões do país.</desc>
+    <category lang="pt-BR">Religious</category>
+    <episode-num system="onscreen">S2026E46</episode-num>
+    <rating>
+      <value>L</value>
     </rating>
   </programme>
   <programme channel="REDEGL.br" start="20261122085000 +0000" stop="20261122094000 +0000">
@@ -19336,15 +19248,34 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122094000 +0000" stop="20261122103000 +0000">
+    <title lang="pt-BR">Globo Repórter</title>
+    <desc lang="pt-BR">O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.</desc>
+    <category lang="pt-BR">Newsmagazine</category>
+  </programme>
   <programme channel="REDEGL.br" start="20261122094000 +0000" stop="20261122103000 +0000">
     <title lang="pt-BR">Globo Repórter</title>
     <desc lang="pt-BR">O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.</desc>
     <category lang="pt-BR">Newsmagazine</category>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122103000 +0000" stop="20261122110000 +0000">
+    <title lang="pt-BR">Globo Comunidade RJ</title>
+    <desc lang="pt-BR">O noticiário traz assuntos de interesse da comunidade, como qualidade de vida e urbanismo.</desc>
+    <category lang="pt-BR">Community</category>
+  </programme>
   <programme channel="REDEGL.br" start="20261122103000 +0000" stop="20261122110000 +0000">
     <title lang="pt-BR">Globo Comunidade RJ</title>
     <desc lang="pt-BR">O noticiário traz assuntos de interesse da comunidade, como qualidade de vida e urbanismo.</desc>
     <category lang="pt-BR">Community</category>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122110000 +0000" stop="20261122113500 +0000">
+    <title lang="pt-BR">AutoEsporte</title>
+    <desc lang="pt-BR">A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.</desc>
+    <category lang="pt-BR">Auto</category>
+    <episode-num system="onscreen">S2026E1211</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
   </programme>
   <programme channel="REDEGL.br" start="20261122110000 +0000" stop="20261122113500 +0000">
     <title lang="pt-BR">AutoEsporte</title>
@@ -19355,11 +19286,26 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122113500 +0000" stop="20261122131500 +0000">
+    <title lang="pt-BR">Globo Rural</title>
+    <desc lang="pt-BR">As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.</desc>
+    <category lang="pt-BR">Agriculture</category>
+    <episode-num system="onscreen">S2026E2402</episode-num>
+  </programme>
   <programme channel="REDEGL.br" start="20261122113500 +0000" stop="20261122131500 +0000">
     <title lang="pt-BR">Globo Rural</title>
     <desc lang="pt-BR">As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.</desc>
     <category lang="pt-BR">Agriculture</category>
     <episode-num system="onscreen">S2026E2402</episode-num>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122131500 +0000" stop="20261122141500 +0000">
+    <title lang="pt-BR">Viver Sertanejo</title>
+    <desc lang="pt-BR">As histórias de artistas que têm a roça como parte de suas trajetórias. Matogrosso &amp; Mathias, Naiara Azevedo, Jads &amp; Jadson, Murilo Huff, Sorocaba e outros convidados estão entre os artistas que tiveram suas participações relembradas na atração. A vida no campo, as memórias da infância e toda relação com a terra estão no centro da conversa.</desc>
+    <category lang="pt-BR">Interview</category>
+    <episode-num system="onscreen">S2026E93</episode-num>
+    <rating>
+      <value>A10</value>
+    </rating>
   </programme>
   <programme channel="REDEGL.br" start="20261122131500 +0000" stop="20261122141500 +0000">
     <title lang="pt-BR">Viver Sertanejo</title>
@@ -19370,11 +19316,25 @@
       <value>A10</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122141500 +0000" stop="20261122153000 +0000">
+    <title lang="pt-BR">Esporte Espetacular</title>
+    <desc lang="pt-BR">Tudo o que rolou durante a semana nos esportes e os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.</desc>
+    <category lang="pt-BR">Newsmagazine</category>
+    <episode-num system="onscreen">S2026E47</episode-num>
+  </programme>
   <programme channel="REDEGL.br" start="20261122141500 +0000" stop="20261122153000 +0000">
     <title lang="pt-BR">Esporte Espetacular</title>
     <desc lang="pt-BR">Tudo o que rolou durante a semana nos esportes e os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.</desc>
     <category lang="pt-BR">Newsmagazine</category>
     <episode-num system="onscreen">S2026E47</episode-num>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122153000 +0000" stop="20261122175000 +0000">
+    <title lang="pt-BR">A Mulher Rei</title>
+    <desc lang="pt-BR">Em 1800, a general Nanisca treina um grupo de mulheres guerreiras para proteger o reino africano de Daomé de um inimigo estrangeiro.</desc>
+    <category lang="pt-BR">Action</category>
+    <rating>
+      <value>PG-13</value>
+    </rating>
   </programme>
   <programme channel="REDEGL.br" start="20261122153000 +0000" stop="20261122175000 +0000">
     <title lang="pt-BR">A Mulher Rei</title>
@@ -19384,10 +19344,27 @@
       <value>PG-13</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122175000 +0000" stop="20261122193500 +0000">
+    <title lang="pt-BR">Nosso Sonho</title>
+    <desc lang="pt-BR">A trajetória de Claudinho &amp; Buchecha, a dupla de maior sucesso do funk melody brasileiro de todos os tempos. A história de uma amizade que se transforma em força de superação e conquista.</desc>
+    <category lang="pt-BR">Biography</category>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
   <programme channel="REDEGL.br" start="20261122175000 +0000" stop="20261122193500 +0000">
     <title lang="pt-BR">Nosso Sonho</title>
     <desc lang="pt-BR">A trajetória de Claudinho &amp; Buchecha, a dupla de maior sucesso do funk melody brasileiro de todos os tempos. A história de uma amizade que se transforma em força de superação e conquista.</desc>
     <category lang="pt-BR">Biography</category>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122193500 +0000" stop="20261122203000 +0000">
+    <title lang="pt-BR">Em Família com Eliana</title>
+    <desc lang="pt-BR">No "Em Família com Eliana", Sandra Annenberg, Ary Fontoura e a dupla Marcos e Belutti como jurados do Show em Família. Três famílias voltam ao palco em uma competição que busca a família mais musical do Brasil. Em conversa com Eliana, Sandra Annenberg relembra momentos de seus 35 anos de carreira no jornalismo, o que inclui passagens pelo "Jornal Nacional", "Fantástico", "Jornal Hoje", além de sua experiência como correspondente em Londres.</desc>
+    <category lang="pt-BR">Variety</category>
+    <episode-num system="onscreen">S01E31</episode-num>
     <rating>
       <value>10</value>
     </rating>
@@ -19401,6 +19378,15 @@
       <value>10</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122203000 +0000" stop="20261122233000 +0000">
+    <title lang="pt-BR">Domingão com Huck</title>
+    <desc lang="pt-BR">Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.</desc>
+    <category lang="pt-BR">Entertainment</category>
+    <episode-num system="onscreen">S2026E272</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
   <programme channel="REDEGL.br" start="20261122203000 +0000" stop="20261122233000 +0000">
     <title lang="pt-BR">Domingão com Huck</title>
     <desc lang="pt-BR">Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.</desc>
@@ -19410,11 +19396,27 @@
       <value>L</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261122233000 +0000" stop="20261123023500 +0000">
+    <title lang="pt-BR">Fantástico</title>
+    <desc lang="pt-BR">Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.</desc>
+    <category lang="pt-BR">Newsmagazine</category>
+    <episode-num system="onscreen">S2026E2770</episode-num>
+  </programme>
   <programme channel="REDEGL.br" start="20261122233000 +0000" stop="20261123023500 +0000">
     <title lang="pt-BR">Fantástico</title>
     <desc lang="pt-BR">Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.</desc>
     <category lang="pt-BR">Newsmagazine</category>
     <episode-num system="onscreen">S2026E2770</episode-num>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123023500 +0000" stop="20261123032500 +0000">
+    <title lang="pt-BR">Circuito Sertanejo</title>
+    <sub-title lang="pt-BR">Melhores Momentos</sub-title>
+    <desc lang="pt-BR">O maior festival de música sertaneja do Brasil que acontece nas seis cidades anfitriãs: Londrina, Ribeirão Preto, Pedro Leopoldo, Barretos, Jaguariúna e Caldas Novas.</desc>
+    <category lang="pt-BR">Event</category>
+    <episode-num system="onscreen">S2026E07</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
   <programme channel="REDEGL.br" start="20261123023500 +0000" stop="20261123032500 +0000">
     <title lang="pt-BR">Circuito Sertanejo</title>
@@ -19426,6 +19428,14 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123032500 +0000" stop="20261123053000 +0000">
+    <title lang="pt-BR">Colateral</title>
+    <desc lang="pt-BR">O taxista Max está trabalhando em uma noite aparentemente tranquila de Los Angeles, até que pega como passageiro Vincent, um assassino de aluguel na cidade para completar o plano de um cartel do narcotráfico. Vincent precisa aguardar que as testemunhas de um crime morram e, para isso, conta com Max para despistar a polícia local e o FBI. Obrigado a seguir ordens, Max precisa ainda lutar contra a possibilidade de ser morto, já que Vincent pode usá-lo para proteção pessoal.</desc>
+    <category lang="pt-BR">Thriller</category>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
   <programme channel="REDEGL.br" start="20261123032500 +0000" stop="20261123053000 +0000">
     <title lang="pt-BR">Colateral</title>
     <desc lang="pt-BR">O taxista Max está trabalhando em uma noite aparentemente tranquila de Los Angeles, até que pega como passageiro Vincent, um assassino de aluguel na cidade para completar o plano de um cartel do narcotráfico. Vincent precisa aguardar que as testemunhas de um crime morram e, para isso, conta com Max para despistar a polícia local e o FBI. Obrigado a seguir ordens, Max precisa ainda lutar contra a possibilidade de ser morto, já que Vincent pode usá-lo para proteção pessoal.</desc>
@@ -19434,7 +19444,23 @@
       <value>R</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123053000 +0000" stop="20261123061500 +0000">
+    <title lang="pt-BR">Vai que Cola</title>
+    <desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+    <category lang="pt-BR">Comedy</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
   <programme channel="REDEGL.br" start="20261123053000 +0000" stop="20261123061500 +0000">
+    <title lang="pt-BR">Vai que Cola</title>
+    <desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
+    <category lang="pt-BR">Comedy</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123061500 +0000" stop="20261123070000 +0000">
     <title lang="pt-BR">Vai que Cola</title>
     <desc lang="pt-BR">Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.</desc>
     <category lang="pt-BR">Comedy</category>
@@ -19450,22 +19476,48 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123070000 +0000" stop="20261123090000 +0000">
+    <title lang="pt-BR">Hora 1</title>
+    <desc lang="pt-BR">Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.</desc>
+    <category lang="pt-BR">News</category>
+    <episode-num system="onscreen">S2026E229</episode-num>
+  </programme>
   <programme channel="REDEGL.br" start="20261123070000 +0000" stop="20261123090000 +0000">
     <title lang="pt-BR">Hora 1</title>
     <desc lang="pt-BR">Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.</desc>
     <category lang="pt-BR">News</category>
     <episode-num system="onscreen">S2026E229</episode-num>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123090000 +0000" stop="20261123113000 +0000">
+    <title lang="pt-BR">Bom Dia Praça</title>
+    <desc lang="pt-BR">Jornal com as primeiras notícias de cada estado.</desc>
+    <category lang="pt-BR">News</category>
+  </programme>
   <programme channel="REDEGL.br" start="20261123090000 +0000" stop="20261123113000 +0000">
     <title lang="pt-BR">Bom Dia Praça</title>
     <desc lang="pt-BR">Jornal com as primeiras notícias de cada estado.</desc>
     <category lang="pt-BR">News</category>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123113000 +0000" stop="20261123123000 +0000">
+    <title lang="pt-BR">Bom Dia Brasil</title>
+    <desc lang="pt-BR">A cobertura de notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
+    <category lang="pt-BR">News</category>
+    <episode-num system="onscreen">S2026E233</episode-num>
   </programme>
   <programme channel="REDEGL.br" start="20261123113000 +0000" stop="20261123123000 +0000">
     <title lang="pt-BR">Bom Dia Brasil</title>
     <desc lang="pt-BR">A cobertura de notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.</desc>
     <category lang="pt-BR">News</category>
     <episode-num system="onscreen">S2026E233</episode-num>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123123000 +0000" stop="20261123133500 +0000">
+    <title lang="pt-BR">Encontro com Patrícia Poeta</title>
+    <desc lang="pt-BR">O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.</desc>
+    <category lang="pt-BR">Entertainment</category>
+    <episode-num system="onscreen">S2026E1133</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
   </programme>
   <programme channel="REDEGL.br" start="20261123123000 +0000" stop="20261123133500 +0000">
     <title lang="pt-BR">Encontro com Patrícia Poeta</title>
@@ -19474,6 +19526,15 @@
     <episode-num system="onscreen">S2026E1133</episode-num>
     <rating>
       <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123133500 +0000" stop="20261123144500 +0000">
+    <title lang="pt-BR">Mais Você</title>
+    <desc lang="pt-BR">Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.</desc>
+    <category lang="pt-BR">Talk</category>
+    <episode-num system="onscreen">S2026E6728</episode-num>
+    <rating>
+      <value>AA</value>
     </rating>
   </programme>
   <programme channel="REDEGL.br" start="20261123133500 +0000" stop="20261123144500 +0000">
@@ -19485,9 +19546,19 @@
       <value>AA</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123144500 +0000" stop="20261123160000 +0000">
+    <title lang="pt-BR">Praça TV - 1ª Edição</title>
+    <desc lang="pt-BR">O telejornal apresenta as principais notícias locais e prioriza o jornalismo comunitário.</desc>
+    <category lang="pt-BR">News</category>
+  </programme>
   <programme channel="REDEGL.br" start="20261123144500 +0000" stop="20261123160000 +0000">
     <title lang="pt-BR">Praça TV - 1ª Edição</title>
     <desc lang="pt-BR">O telejornal apresenta as principais notícias locais e prioriza o jornalismo comunitário.</desc>
+    <category lang="pt-BR">News</category>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123160000 +0000" stop="20261123162500 +0000">
+    <title lang="pt-BR">Globo Esporte</title>
+    <desc lang="pt-BR">As principais notícias esportivas do Brasil e do mundo.</desc>
     <category lang="pt-BR">News</category>
   </programme>
   <programme channel="REDEGL.br" start="20261123160000 +0000" stop="20261123162500 +0000">
@@ -19495,11 +19566,26 @@
     <desc lang="pt-BR">As principais notícias esportivas do Brasil e do mundo.</desc>
     <category lang="pt-BR">News</category>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123162500 +0000" stop="20261123174500 +0000">
+    <title lang="pt-BR">Jornal Hoje</title>
+    <desc lang="pt-BR">As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
+    <category lang="pt-BR">News</category>
+    <episode-num system="onscreen">S2026E280</episode-num>
+  </programme>
   <programme channel="REDEGL.br" start="20261123162500 +0000" stop="20261123174500 +0000">
     <title lang="pt-BR">Jornal Hoje</title>
     <desc lang="pt-BR">As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.</desc>
     <category lang="pt-BR">News</category>
     <episode-num system="onscreen">S2026E280</episode-num>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123174500 +0000" stop="20261123182500 +0000">
+    <title lang="pt-BR">Roque Santeiro - Edição Especial</title>
+    <desc lang="pt-BR">Em Asa Branca, moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir. O falso santo, porém, reaparece em carne e osso 17 anos depois, ameaçando o poder e a riqueza das autoridades locais.</desc>
+    <category lang="pt-BR">Soap</category>
+    <episode-num system="onscreen">S2026E43</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
   </programme>
   <programme channel="REDEGL.br" start="20261123174500 +0000" stop="20261123182500 +0000">
     <title lang="pt-BR">Roque Santeiro - Edição Especial</title>
@@ -19510,12 +19596,29 @@
       <value>14</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123182500 +0000" stop="20261123200500 +0000">
+    <title lang="pt-BR">A Boneca que Virou Gente 2</title>
+    <desc lang="pt-BR">Trabalhando na empresa de brinquedos Marathon Toys, a jovem executiva Grace está passando por uma crise. Mas, quando sua boneca Eve cria vida, a empresária ganha uma ajuda para dar a volta por cima.</desc>
+    <category lang="pt-BR">Holiday</category>
+    <rating>
+      <value>TV14</value>
+    </rating>
+  </programme>
   <programme channel="REDEGL.br" start="20261123182500 +0000" stop="20261123200500 +0000">
     <title lang="pt-BR">A Boneca que Virou Gente 2</title>
     <desc lang="pt-BR">Trabalhando na empresa de brinquedos Marathon Toys, a jovem executiva Grace está passando por uma crise. Mas, quando sua boneca Eve cria vida, a empresária ganha uma ajuda para dar a volta por cima.</desc>
     <category lang="pt-BR">Holiday</category>
     <rating>
       <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123200500 +0000" stop="20261123204500 +0000">
+    <title lang="pt-BR">Vale a Pena Ver de Novo - A Dona do Pedaço</title>
+    <desc lang="pt-BR">Maria da Paz é uma jovem humilde que vem de uma família de justiceiros profissionais e se apaixona por um membro do clã rival nos negócios, o advogado Amadeu. A violência e a sede por vingança das famílias travam este grande amor.</desc>
+    <category lang="pt-BR">Soap</category>
+    <episode-num system="onscreen">S2026E01</episode-num>
+    <rating>
+      <value>14</value>
     </rating>
   </programme>
   <programme channel="REDEGL.br" start="20261123200500 +0000" stop="20261123204500 +0000">
@@ -19527,6 +19630,15 @@
       <value>14</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123204500 +0000" stop="20261123212500 +0000">
+    <title lang="pt-BR">Vale a Pena Ver de Novo - Avenida Brasil</title>
+    <desc lang="pt-BR">Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.</desc>
+    <category lang="pt-BR">Soap</category>
+    <episode-num system="onscreen">S2026E159</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
   <programme channel="REDEGL.br" start="20261123204500 +0000" stop="20261123212500 +0000">
     <title lang="pt-BR">Vale a Pena Ver de Novo - Avenida Brasil</title>
     <desc lang="pt-BR">Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.</desc>
@@ -19534,6 +19646,15 @@
     <episode-num system="onscreen">S2026E159</episode-num>
     <rating>
       <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123212500 +0000" stop="20261123221000 +0000">
+    <title lang="pt-BR">Lá na Minha Terra</title>
+    <desc lang="pt-BR">Rosenda desembarca no Rio de Janeiro após um pouso de emergência do avião. Ismália disfarça, mas não consegue dar a maçã envenenada para a égua Cleópatra. Rosenda consegue embarcar em um ônibus para São Paulo, e avisa a Almerindo, que se preocupa com a amada. Elias se sente mal durante a reunião com Cesário e Aluísio, e reclama com Lourdes. Rosenda é roubada em São Paulo, e Josias fica com seu celular e seu colar. Marleide acolhe Rosenda.</desc>
+    <category lang="pt-BR">Soap</category>
+    <episode-num system="onscreen">S2026E13</episode-num>
+    <rating>
+      <value>A12</value>
     </rating>
   </programme>
   <programme channel="REDEGL.br" start="20261123212500 +0000" stop="20261123221000 +0000">
@@ -19545,10 +19666,24 @@
       <value>A12</value>
     </rating>
   </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123221000 +0000" stop="20261123224000 +0000">
+    <title lang="pt-BR">Praça TV - 2ª Edição</title>
+    <desc lang="pt-BR">O telejornal apresenta as principais notícias locais e prioriza o jornalismo comunitário.</desc>
+    <category lang="pt-BR">News</category>
+  </programme>
   <programme channel="REDEGL.br" start="20261123221000 +0000" stop="20261123224000 +0000">
     <title lang="pt-BR">Praça TV - 2ª Edição</title>
     <desc lang="pt-BR">O telejornal apresenta as principais notícias locais e prioriza o jornalismo comunitário.</desc>
     <category lang="pt-BR">News</category>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123224000 +0000" stop="20261123233000 +0000">
+    <title lang="pt-BR">Por Você</title>
+    <desc lang="pt-BR">Vanessa sonda Ítalo sobre seus irmãos. Samuca pergunta se Lucas quer ser seu pai. Leandra discute com Vanessa, que não aceita a escolha profissional da filha. Dalila, Suelen, Hanna e Josi Kéli ajudam Glorinha. Suelen e Maike se declaram um para o outro. Glorinha e Juca vão a um encontro. Vanessa orienta Zé a se aproximar de Glorinha e Zé aborda Glorinha.</desc>
+    <category lang="pt-BR">Soap</category>
+    <episode-num system="onscreen">S2026E85</episode-num>
+    <rating>
+      <value>A12</value>
+    </rating>
   </programme>
   <programme channel="REDEGL.br" start="20261123224000 +0000" stop="20261123233000 +0000">
     <title lang="pt-BR">Por Você</title>
@@ -19558,6 +19693,12 @@
     <rating>
       <value>A12</value>
     </rating>
+  </programme>
+  <programme channel="REDEGL.br (m3u4u)" start="20261123233000 +0000" stop="20261124003000 +0000">
+    <title lang="pt-BR">Jornal Nacional</title>
+    <desc lang="pt-BR">As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
+    <category lang="pt-BR">News</category>
+    <episode-num system="onscreen">S2026E280</episode-num>
   </programme>
   <programme channel="REDEGL.br" start="20261123233000 +0000" stop="20261124003000 +0000">
     <title lang="pt-BR">Jornal Nacional</title>
@@ -21073,483 +21214,6 @@
     </rating>
   </programme>
   <programme channel="SPACEB.br" start="20261123233700 +0000" stop="20261124020000 +0000">
-    <title lang="pt-BR">Máquina Mortífera 4</title>
-    <desc lang="pt-BR">A polícia de Los Angeles descobre uma quadrilha que promove a entrada de chineses nos Estados Unidos para serem vendidos como escravos. Por trás desta operação está Tio Benny, o chefão de uma grande quadrilha em Chinatown. Os policiais precisam lidar com seus problemas pessoais enquanto investigam a entrada ilegal destes imigrantes.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261121222700 +0000" stop="20261122001100 +0000">
-    <title lang="pt-BR">Rambo III</title>
-    <desc lang="pt-BR">O ex-soldado John Rambo recusa um pedido do coronel Trautman, seu antigo líder de pelotão, para uma nova missão, pensando apenas em continuar com o seu novo estilo de vida, baseado na crença budista. No entanto, quando o coronel Trautman é raptado pelos russos na fronteira do Afeganistão e o governo americano é incapaz de intervir oficialmente, Rambo decide agir por sua conta e risco.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261121234200 +0000" stop="20261122020000 +0000">
-    <title lang="pt-BR">Mad Max - Estrada da Fúria</title>
-    <desc lang="pt-BR">Em um mundo pós-apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal iniciada pela Imperatriz Furiosa, que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudá-la.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122001100 +0000" stop="20261122020000 +0000">
-    <title lang="pt-BR">A Múmia</title>
-    <desc lang="pt-BR">Na Mesopotâmia, séculos atrás, Ahmanet tem seus planos interrompidos quando estava prestes a invocar Set, o deus da morte, para que juntos pudessem governar o mundo. Mumificada, ela é aprisionada numa tumba. Atualmente, o local é descoberto por acidente por Nick Morton e Chris Vail, saqueadores de artefatos antigos que estavam na região em busca de raridades. Ao lado da pesquisadora Jenny Halsey, eles investigam a tumba recém-descoberta e, acidentalmente, despertam Ahmanet.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122020000 +0000" stop="20261122035300 +0000">
-    <title lang="pt-BR">Mortal Kombat</title>
-    <desc lang="pt-BR">Os planetas estão desalinhados. Para deter as forças do mal e salvar a humanidade, Lord Rayden, o protetor da Terra, escolhe as três pessoas capazes de vencer o Mortal Kombat, disputado pelos melhores lutadores do universo.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122035300 +0000" stop="20261122043500 +0000">
-    <title lang="pt-BR">CSI: Miami</title>
-    <sub-title lang="pt-BR">Reviravolta</sub-title>
-    <desc lang="pt-BR">Natalia é obrigada a revelar o segredo de um prisioneiro para salvar a própria vida.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S09E18</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122043500 +0000" stop="20261122051900 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Irradiator</sub-title>
-    <desc lang="pt-BR">A investigação de Langston sobre o assassinato de uma família leva-o muito perto de pegar um assassino em série.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S10E17</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122051900 +0000" stop="20261122060100 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">CSI Desligado</sub-title>
-    <desc lang="pt-BR">Acontece um apagão na cidade de Las Vegas e os CSIs devem voltar a velha escola e usar métodos antigos para resolverem o caso de uma criança desaparecida.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S12E16</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122060100 +0000" stop="20261122064400 +0000">
-    <title lang="pt-BR">CSI: Miami</title>
-    <sub-title lang="pt-BR">Dia de Descarte</sub-title>
-    <desc lang="pt-BR">Uma investigação de rotina no transporte de drogas termina mal, devido a uma emboscada que deixa policiais mortos e suspeitas pairando sobre a equipe do CSI.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S01E18</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122064400 +0000" stop="20261122072700 +0000">
-    <title lang="pt-BR">CSI: Miami</title>
-    <sub-title lang="pt-BR">Identidade</sub-title>
-    <desc lang="pt-BR">Quando uma mulher é engolida por uma cobra gigante, o CSI suspeita que Clavo Cruz, carma de Horácio, está por trás de uma operação que usa cobras para contrabandear drogas no país.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S03E15</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122072700 +0000" stop="20261122081000 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Homicídio de Borracha</sub-title>
-    <desc lang="pt-BR">Um homem é misteriosamente esfaqueado e morto em um beco da cidade. Diante do cenário desse crime, os membros da equipe de CSI se veem forçados a mergulhar em um bizarro mundo de bonecos de borracha.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S15E08</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122081000 +0000" stop="20261122083300 +0000">
-    <title lang="pt-BR">Olhos da Lei</title>
-    <sub-title lang="pt-BR">Chamados do 190</sub-title>
-    <desc lang="pt-BR">Veja que o Copom, Centro de Operações da Polícia Militar de SP, atende a mais de 30 mil chamados. Um deles chegou até o GATE.</desc>
-    <category lang="pt-BR">Documentary</category>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <rating>
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122083300 +0000" stop="20261122090000 +0000">
-    <title lang="pt-BR">Olhos da Lei</title>
-    <sub-title lang="pt-BR">Ocorrências Familiares</sub-title>
-    <desc lang="pt-BR">O COPOM lida com supostos sequestros, além de uma ocorrência com reféns.</desc>
-    <category lang="pt-BR">Documentary</category>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <rating>
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122090000 +0000" stop="20261122091800 +0000">
-    <title lang="pt-BR">Hollywood One on One</title>
-    <desc lang="pt-BR">Entrevistas com celebridades.</desc>
-    <category lang="pt-BR">Talk</category>
-    <episode-num system="onscreen">S2026E34</episode-num>
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122091800 +0000" stop="20261122093200 +0000">
-    <title lang="pt-BR">Hollywood One on One</title>
-    <desc lang="pt-BR">Entrevistas com celebridades.</desc>
-    <category lang="pt-BR">Talk</category>
-    <episode-num system="onscreen">S2026E37</episode-num>
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122093200 +0000" stop="20261122095700 +0000">
-    <title lang="pt-BR">Olhos da Lei</title>
-    <sub-title lang="pt-BR">Final de Ano</sub-title>
-    <desc lang="pt-BR">O COPOM aciona GATE e patrulheiros territoriais para ocorrências de Ano Novo.</desc>
-    <category lang="pt-BR">Documentary</category>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <rating>
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122095700 +0000" stop="20261122104100 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Vamos Fazer um Acordo</sub-title>
-    <desc lang="pt-BR">Quando um presidiário tenta fugir dos oficiais, ele acaba tropeçando em um corpo. Diante desse terrível cenário e com múltiplas suspeitas em mãos, a equipe de CSI passa a investigar um assassinato em um presídio do Condado de Clark.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S15E09</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122104100 +0000" stop="20261122112400 +0000">
-    <title lang="pt-BR">CSI: Miami</title>
-    <sub-title lang="pt-BR">Enjaulado</sub-title>
-    <desc lang="pt-BR">Horácio precisa proteger seu irmão de um lutador que fugiu da cadeia.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S09E19</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122112400 +0000" stop="20261122121000 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Campo de Ratos</sub-title>
-    <desc lang="pt-BR">Quando Hodges e Wendy levam um grupo de estudantes para uma viagem ao campo, eles assumem seu trabalho em resolver casos e levam a tarefa longe demais.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S10E18</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122121000 +0000" stop="20261122125700 +0000">
-    <title lang="pt-BR">CSI: Miami</title>
-    <sub-title lang="pt-BR">Serviço Duplo</sub-title>
-    <desc lang="pt-BR">Horácio quer fazer algumas perguntas ao namorado da vítima de homicídio, porém o FBI não divulga a sua localização; o pai de Calleigh aparece para uma visita.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <rating>
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122125700 +0000" stop="20261122134200 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Tendências de Benefícios</sub-title>
-    <desc lang="pt-BR">A equipe começa uma investigação quando a foto de um estudante universitário morto começa a ser mostrada na internet.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S12E17</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122134200 +0000" stop="20261122144900 +0000">
-    <title lang="pt-BR">CSI: Miami</title>
-    <sub-title lang="pt-BR">Nada a Perder</sub-title>
-    <desc lang="pt-BR">Horatio e seu time correm contra o tempo para encontrar um assassino que escapou da prisão enquanto ajudava no combate ao incêndio nos Everglades.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S03E16</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122144900 +0000" stop="20261122153400 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Vamos Fazer um Acordo</sub-title>
-    <desc lang="pt-BR">Quando um presidiário tenta fugir dos oficiais, ele acaba tropeçando em um corpo. Diante desse terrível cenário e com múltiplas suspeitas em mãos, a equipe de CSI passa a investigar um assassinato em um presídio do Condado de Clark.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S15E09</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122153400 +0000" stop="20261122173100 +0000">
-    <title lang="pt-BR">Mortal Kombat</title>
-    <desc lang="pt-BR">Os planetas estão desalinhados. Para deter as forças do mal e salvar a humanidade, Lord Rayden, o protetor da Terra, escolhe as três pessoas capazes de vencer o Mortal Kombat, disputado pelos melhores lutadores do universo.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122173100 +0000" stop="20261122193300 +0000">
-    <title lang="pt-BR">Máquina Mortífera</title>
-    <desc lang="pt-BR">Após perder a esposa, o detetive Martin Riggs torna-se temerário e suicida. Transferido, entra em conflito com Roger Murtaugh, veterano do departamento. Juntos, descobrem um cartel de drogas e formam um vínculo em situações perigosas.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122193300 +0000" stop="20261122214000 +0000">
-    <title lang="pt-BR">Máquina Mortífera 2</title>
-    <desc lang="pt-BR">Policiais de LA, Riggs e Murtaugh, são designados para proteger um contador corrupto que testemunhará em comissão federal. O que parecia rotina se complica quando descobrem que ele lava dinheiro para o mesmo cartel sul-africano que tentam combater.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122214000 +0000" stop="20261122234300 +0000">
-    <title lang="pt-BR">Máquina Mortífera 3</title>
-    <desc lang="pt-BR">Após provocarem a explosão de um prédio, os parceiros Martin Riggs e Roger Murtaugh são rebaixados a guardas de rua. A dupla tem a chance de virar o jogo quando investigam, com a ajuda da oficial Lorna Cole e do informante Leo Getz, um roubo de armas da polícia para a venda no mercado negro. O esquema está sendo comandado por um ex-policial corrupto, que mata qualquer um que resolver abrir a boca.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261122234300 +0000" stop="20261123020000 +0000">
-    <title lang="pt-BR">Máquina Mortífera 4</title>
-    <desc lang="pt-BR">A polícia de Los Angeles descobre uma quadrilha que promove a entrada de chineses nos Estados Unidos para serem vendidos como escravos. Por trás desta operação está Tio Benny, o chefão de uma grande quadrilha em Chinatown. Os policiais precisam lidar com seus problemas pessoais enquanto investigam a entrada ilegal destes imigrantes.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123020000 +0000" stop="20261123043100 +0000">
-    <title lang="pt-BR">Furiosa - Uma Saga Mad Max</title>
-    <desc lang="pt-BR">A jovem Furiosa cai nas mãos de uma grande horda de motoqueiros liderada pelo senhor da guerra Dementus. Varrendo Wasteland, eles encontram a Cidadela, presidida pelo Immortan Joe. Enquanto os dois tiranos lutam pelo domínio, Furiosa logo se vê em uma batalha ininterrupta para voltar para casa.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123043100 +0000" stop="20261123051200 +0000">
-    <title lang="pt-BR">CSI: Miami</title>
-    <sub-title lang="pt-BR">Enjaulado</sub-title>
-    <desc lang="pt-BR">Horácio precisa proteger seu irmão de um lutador que fugiu da cadeia.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S09E19</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123051200 +0000" stop="20261123055600 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Campo de Ratos</sub-title>
-    <desc lang="pt-BR">Quando Hodges e Wendy levam um grupo de estudantes para uma viagem ao campo, eles assumem seu trabalho em resolver casos e levam a tarefa longe demais.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S10E18</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123055600 +0000" stop="20261123063700 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Tendências de Benefícios</sub-title>
-    <desc lang="pt-BR">A equipe começa uma investigação quando a foto de um estudante universitário morto começa a ser mostrada na internet.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S12E17</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123063700 +0000" stop="20261123072100 +0000">
-    <title lang="pt-BR">CSI: Miami</title>
-    <sub-title lang="pt-BR">Serviço Duplo</sub-title>
-    <desc lang="pt-BR">Horácio quer fazer algumas perguntas ao namorado da vítima de homicídio, porém o FBI não divulga a sua localização; o pai de Calleigh aparece para uma visita.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <rating>
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123072100 +0000" stop="20261123082600 +0000">
-    <title lang="pt-BR">CSI: Miami</title>
-    <sub-title lang="pt-BR">Nada a Perder</sub-title>
-    <desc lang="pt-BR">Horatio e seu time correm contra o tempo para encontrar um assassino que escapou da prisão enquanto ajudava no combate ao incêndio nos Everglades.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S03E16</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123082600 +0000" stop="20261123083800 +0000">
-    <title lang="pt-BR">Hollywood One on One</title>
-    <desc lang="pt-BR">Entrevistas com celebridades.</desc>
-    <category lang="pt-BR">Talk</category>
-    <episode-num system="onscreen">S2026E43</episode-num>
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123083800 +0000" stop="20261123085100 +0000">
-    <title lang="pt-BR">Hollywood One on One</title>
-    <desc lang="pt-BR">Entrevistas com celebridades.</desc>
-    <category lang="pt-BR">Talk</category>
-    <episode-num system="onscreen">S2026E46</episode-num>
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123085100 +0000" stop="20261123090000 +0000">
-    <title lang="pt-BR">Hollywood One on One</title>
-    <desc lang="pt-BR">Entrevistas com celebridades.</desc>
-    <category lang="pt-BR">Talk</category>
-    <episode-num system="onscreen">S2026E53</episode-num>
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123090000 +0000" stop="20261123094800 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Merchants of Menace</sub-title>
-    <desc lang="pt-BR">A equipe do CSI investiga um homicídio em um congresso de colecionadores de objetos macabros.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S15E14</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123094800 +0000" stop="20261123103300 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Sufocado</sub-title>
-    <desc lang="pt-BR">O filho de um magnata de Las Vegas morre aparentemente de overdose de drogas, mas pistas na cena do crime sugerem que sua morte foi armada.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <rating>
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123103300 +0000" stop="20261123112000 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Brass em Hollywood</sub-title>
-    <desc lang="pt-BR">Após sua filha ligar pedindo ajuda, o capitão Brass busca a assistência de uma ex-colega em Los Angeles.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S05E20</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123112000 +0000" stop="20261123120600 +0000">
-    <title lang="pt-BR">CSI: Miami</title>
-    <sub-title lang="pt-BR">Shock</sub-title>
-    <desc lang="pt-BR">Uma herdeira mimada é encontrada morta em sua banheira durante sua própria festa, e não há suspeitos; Horatio fala para Delko que ele e Marisol pretendem se casar o mais breve possível.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S04E23</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123120600 +0000" stop="20261123125200 +0000">
-    <title lang="pt-BR">CSI: Miami</title>
-    <sub-title lang="pt-BR">Spring Breakdown</sub-title>
-    <desc lang="pt-BR">A equipe descobre que três vítimas mortas durante uma folga escolar eram, na verdade, causadoras de problemas que frequentavam a mesma escola e estavam envolvidas em um incidente cruel no ano anterior.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S08E19</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123125200 +0000" stop="20261123133800 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Doctor Who</sub-title>
-    <desc lang="pt-BR">Um jornalista, planejando fazer uma chocante acusação contra Langston, é assassinado e uma série de acontecimentos estranhos fazem com que a CSI suspeite que seu colega Langston seja o assassino.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S10E22</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123133800 +0000" stop="20261123142900 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Bite Me</sub-title>
-    <desc lang="pt-BR">A equipe investiga a morte de uma mulher após ela ter caído de uma escada e encontra muitas evidências em seu sangue que indicam que a morte dela não foi um acidente.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S06E03</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123142900 +0000" stop="20261123151500 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Um Hit Só</sub-title>
-    <desc lang="pt-BR">A equipe caça um predador sexual, cujos ataques estão ficando muito mais agressivos. Sara tenta descobrir o responsável do ataque que deixou uma velha amiga paralisada e seu marido morto.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S03E14</episode-num>
-    <rating>
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123151500 +0000" stop="20261123160000 +0000">
-    <title lang="pt-BR">CSI: Miami</title>
-    <sub-title lang="pt-BR">Money for Nothing</sub-title>
-    <desc lang="pt-BR">Ladrões roubam US$ 2,3 milhões de um carro-forte no centro de Miami, mas o dinheiro acaba sendo falsificado, e a equipe deve entender o que aconteceu com a grana do banco antes de ser trocada por cédulas falsas.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S02E17</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123160000 +0000" stop="20261123165000 +0000">
-    <title lang="pt-BR">CSI: Miami</title>
-    <sub-title lang="pt-BR">Sunblock</sub-title>
-    <desc lang="pt-BR">Um homem e uma mulher morrem estrangulados durante um eclipse total do sol e evidências bizarras encontradas na cena do crime levam a equipe a suspeitar que o assassino não seja humano; Alex é levada ao hospital após desmaiar no laboratório.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S06E06</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123165000 +0000" stop="20261123173600 +0000">
-    <title lang="pt-BR">CSI Investigação Criminal</title>
-    <sub-title lang="pt-BR">Desaparecidos</sub-title>
-    <desc lang="pt-BR">Um agressor sexual conhecido em um bairro é o principal suspeito do desaparecimento de dois jovens; Grissom pede ajuda ao agressor sexual para capturar o sequestrador dos meninos, para extrair uma confissão.</desc>
-    <category lang="pt-BR">Crime drama</category>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <rating>
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123173600 +0000" stop="20261123193100 +0000">
-    <title lang="pt-BR">Máquina Mortífera</title>
-    <desc lang="pt-BR">Após perder a esposa, o detetive Martin Riggs torna-se temerário e suicida. Transferido, entra em conflito com Roger Murtaugh, veterano do departamento. Juntos, descobrem um cartel de drogas e formam um vínculo em situações perigosas.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123193100 +0000" stop="20261123213200 +0000">
-    <title lang="pt-BR">Máquina Mortífera 2</title>
-    <desc lang="pt-BR">Policiais de LA, Riggs e Murtaugh, são designados para proteger um contador corrupto que testemunhará em comissão federal. O que parecia rotina se complica quando descobrem que ele lava dinheiro para o mesmo cartel sul-africano que tentam combater.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123213200 +0000" stop="20261123233700 +0000">
-    <title lang="pt-BR">Máquina Mortífera 3</title>
-    <desc lang="pt-BR">Após provocarem a explosão de um prédio, os parceiros Martin Riggs e Roger Murtaugh são rebaixados a guardas de rua. A dupla tem a chance de virar o jogo quando investigam, com a ajuda da oficial Lorna Cole e do informante Leo Getz, um roubo de armas da polícia para a venda no mercado negro. O esquema está sendo comandado por um ex-policial corrupto, que mata qualquer um que resolver abrir a boca.</desc>
-    <category lang="pt-BR">Action</category>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme channel="SPACEHB.br (m3u4u)" start="20261123233700 +0000" stop="20261124020000 +0000">
     <title lang="pt-BR">Máquina Mortífera 4</title>
     <desc lang="pt-BR">A polícia de Los Angeles descobre uma quadrilha que promove a entrada de chineses nos Estados Unidos para serem vendidos como escravos. Por trás desta operação está Tio Benny, o chefão de uma grande quadrilha em Chinatown. Os policiais precisam lidar com seus problemas pessoais enquanto investigam a entrada ilegal destes imigrantes.</desc>
     <category lang="pt-BR">Action</category>
