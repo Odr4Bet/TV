@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://ytimg.com" group-title="YouTube | Nômade Raiz",INVESTIGUEI A NAÇÃO MAIS ANTIGA DA ÁFRICA
+plugin://plugin.video.youtube/play/?video_id=reHEkuaVWqw
+
+#EXTINF:-1 tvg-logo="https://ytimg.com" group-title="YouTube | Nômade Raiz",VOLTEI NO JAPÃO O PAÍS MAIS TRISTE DO MUNDO
+plugin://plugin.video.youtube/play/?video_id=hlSGDbGNQTc
+
+#EXTINF:-1 tvg-logo="https://ytimg.com" group-title="YouTube | Nômade Raiz",DENTRO DE UMA FAVELA NO SRI LANKA
+plugin://plugin.video.youtube/play/?video_id=mJcF1RCOSZA
+
+#EXTINF:-1 tvg-logo="https://ytimg.com" group-title="YouTube | Nômade Raiz",NÃO ESPERAVA SER TRATADO ASSIM NO SRI LANKA
+plugin://plugin.video.youtube/play/?video_id=Q3JqTIyw66c
