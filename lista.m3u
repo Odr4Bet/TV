@@ -59,9 +59,9 @@ http://45.185.15.154:9080/stream/61/index.m3u8
 http://138.204.86.4:8080/SONY_HD/index.m3u8
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://i.imgur.com/wem1nAc.png" tvg-id="Sony.Movies.Brazil.br",Sony Movies
 http://138.204.86.4:8080/SONY_MOVIES/index.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/RxETCgZ.png" tvg-id="SPACEB.br",SPACE HD
+#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/RxETCgZ.png" tvg-id="SPACEHB.br (m3u4u)",SPACE HD
 http://45.185.15.154:9080/stream/5/index.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/RxETCgZ.png" tvg-id="SPACE.br (src05)",SPACE HD²
+#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/RxETCgZ.png" tvg-id="SPACEHB.br (m3u4u)",SPACE HD²
 http://138.204.86.4:8080/SPACE_HD/index.m3u8
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/mMLZhgP.png" tvg-id="STUBR.br",Studio Universal HD
 http://45.134.141.161:2200/BRX/Studio_Universal_HD/index.m3u8
@@ -1119,6 +1119,8 @@ http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x11.mp4
 #EXTINF:-1 group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04" tvg-logo="https://imgur.com/AQKwXj6.png" tvg-id="",S04 E12
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x12.mp4
+#EXTINF:-1 group-title="YouTube | Nômade Raiz" tvg-logo="https://i.ytimg.com/vi/reHEkuaVWqw/hqdefault.jpg" tvg-id="",INVESTIGUEI A NAÇÃO MAIS ANTIGA DA ÁFRICA
+plugin://plugin.video.youtube/play/?video_id=reHEkuaVWqw
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-id="",Nando Entre Dois Mundos: Filme Sintonia
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt43640198.mp4
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://i.imgur.com/L89LBAz.png" tvg-id="",George Washington
